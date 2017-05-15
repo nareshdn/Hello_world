@@ -1,6 +1,8 @@
 # Hello_world
-first git repository contains only text.
 it contain my nAME AND DETAILS
 NARESH
 BANGALORE
 BBJHJHJ
+MCA 
+KOLAR
+786232343438
